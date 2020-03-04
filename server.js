@@ -8,7 +8,7 @@ const { Sequelize, Model, DataTypes } = require('sequelize');
     name: 'SQLEXPRESS01',
     username: 'testuser',
     password: 'user',
-    port: '1443',
+    port: '1443',dadsfa
 });*/
 
 const sequelize = new Sequelize('testDB', 'admin', 'abc1234567890', {

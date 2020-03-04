@@ -1,0 +1,25 @@
+{
+  "name": "syp_backend_b",
+  "version": "1.0.0",
+  "description": "Backend Repo of our SYP-Project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonathanMatauschek/SYP_Backend_B.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonathanMatauschek/SYP_Backend_B/issues"
+  },
+  "homepage": "https://github.com/JonathanMatauschek/SYP_Backend_B#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "save": "^2.4.0",
+    "sequelize": "^5.21.5",
+    "tedious": "^8.0.1"
+  }
+}
